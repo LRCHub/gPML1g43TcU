@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "半透明ピエロ",
+  "base_artist": "夏山よつぎ",
+  "createdAt": "2026-01-03T17:03:23.261835Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "半透明ピエロ",
+      "artist": "夏山よつぎ",
+      "has_synced": false,
+      "path": "select/pl_01_半透明ピエロ_夏山よつぎ.txt"
+    }
+  ]
+}
